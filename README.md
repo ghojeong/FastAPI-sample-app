@@ -3,7 +3,6 @@
 ## 실행법
 
 ```sh
-cd ./likelion/k8s/assignment/assign2/FastAPI-sample-app
 docker-compose up
 ```
 
